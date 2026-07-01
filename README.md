@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WAMIS Ticketing Tool
 
 Starter implementation for the Tamil Nadu WAMIS internal ticketing workflow.
@@ -54,3 +55,6 @@ npm start
 - Support ticket submission requires a support decision.
 - If support decision is `Moved to Development`, an email config is required.
 - Email body uses ticket description and subject uses ticket subject.
+=======
+c
+>>>>>>> 3ecf8c179fef11610f89433013a90929ae75e382
